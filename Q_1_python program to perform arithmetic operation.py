@@ -1,7 +1,3 @@
-#Name = Mohd_Shakir
-#Roll_No = 08
-#Enrollment_No = A180478
-
 
 num1 = int(input('Enter First number: '))
 num2 = int(input('Enter Second number '))

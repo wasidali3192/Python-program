@@ -1,6 +1,4 @@
-#Name = Mohd_Shakir
-#Roll_No = 08
-#Enrollment_No = A180478
+
 
 
 num = int(input("How many terms? "))
